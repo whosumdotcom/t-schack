@@ -1,0 +1,26 @@
+{
+  "TermsOfServiceVersion": 1,
+  "TermsAgreedToWhen": "2023-04-06T06:52:15Z",
+  "IdClaims": [
+    {
+      "Claim": "t:schack"
+    },
+    {
+      "Claim": "mdon:@schack@infosec.exchange"
+    },
+    {
+      "Claim": "gh:schack"
+    }
+  ],
+  "IdDisclaims": null,
+  "Signature": {
+    "Authority": "https://whosum.com",
+    "PublicKey": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEApF0NC9C13limzP9H5\u002BcXoWEddOfjDdysecEWNhNxS3yCWdRJjsCpIWY3euUxIFWw9W9Zkbo1tx8YbnLVdCPd7qORelTZZR5I9IvQdsyyqZIeAuw4xk/VcK119Kme13cqhsjOtgCrdekjz5YEklZqXdZKclJMc2fqHjOfHl07lYXWmqx8FxCUjjGCkBcr4WZD/uvs0SXRACkXS01bP0Wbao1sHxyFoADHV5i8Yvg2o32Sy37DMMMOfjO8ZpqqwNKVEs04gGL\u002BnGkDqNP/6lIaTinrzCJe57qcorGcVlWGdV4nC5uMgIgqZ/7pzrCHF5WbXai3g3AObmPJ5eG8TCTsrQIDAQAB",
+    "Nonce": "7ce9152ba2a85e3a51484111",
+    "Timestamp": "2023-04-06T06:58:37Z",
+    "Signature": "1b96f285ab8da099bd81225dd2bb031ea497f4ea9d74db9fd680e741ecb9778a63c1eb0397afe981f6de357f38b5afb1e0b4dd32ccca0c26edc5c92bc189ec82baf3bf5973b40d2dadefad631c1c071126be5af0a9ed767eaae1458b4070f0a5a41eef6a1bdf796ceac95c0ac2dee045961ffd09ce49f4e32786822d081651d31922e2b11d987180e88f5d368db866eb7286e2b829294a8e73ee3afc61ef3eb105374b2bfa445b1ede8d47c648cffeb848f4695f83ac689edf8d1ea57664373333f8d7982ba4f0441dfa79644ddca280013405635c4b7f6090c5a435b81019299efa42f2b9d86098c82843db6af2b7aa73c0ef35d68d9a0123b4f7e1b31d950c"
+  },
+  "AgreedToTerms": true,
+  "ContentSha256": "6536b8169bc627d6bbca3da6e79c6efe3349fd005b8682d94a300bc61d8e8d2b",
+  "ContentToHash": "v1|gh:schack,mdon:@schack@infosec.exchange,t:schack|2023-04-06T06:52:15Z"
+}
